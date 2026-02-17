@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Voltus Chatbot</title>
+  <script type="module" src="https://unpkg.com/deep-chat@2.1.1/dist/deepChat.bundle.js"></script>
+</head>
+<body>
+
+  <h1>VOLTUS Yapay Zeka Sohbet Botu</h1>
+  <a href="https://tiktaktik.com.tr/voltus/" target="_blank">VOLTUS Website'ye Git</a>
+
+  <deep-chat 
+    id="chat-element"
+    request='{"url": "/chat", "method": "POST"}'
+    introMessage='{"text": "Merhaba Voltus hakkında nasıl yardımcı olabilirim?"}'
+    textInput='{"placeholder": {"text": "Lütfen sorunuzu yazınız..."}}'
+    language='{"language": "tr"}'
+    style="border-radius: 10px; width: 350px; height: 500px; position: fixed; bottom: 20px; right: 20px;"
+  ></deep-chat>
+
+  <script>
+    const chatElement = document.getElementById('chat-element');
+    console.log("Connecting to server...");
+    // Configure the connection to your local backend
+    chatElement.request = {
+        url: '/chat',
+        method: 'POST'
+    };  
+    </script>
+
+</body>
+</html>
