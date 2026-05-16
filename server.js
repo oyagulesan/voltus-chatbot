@@ -9,7 +9,10 @@ app.use(express.json());
 const cors = require('cors');
 app.use(cors()); // This allows the widget to talk to your server
 
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+const openai = new OpenAI({
+  apiKey: process.env.GROQ_API_KEY,
+  baseURL: "https://api.groq.com/openai/v1",
+});
 const fs = require('fs');
 // Load the knowledge once when the server starts
 const businessKnowledge = fs.readFileSync('business_knowledge.txt', 'utf8');
@@ -22,7 +25,7 @@ app.post('/chat', async (req, res) => {
     const lastMessage = userMessages[userMessages.length - 1].text;
 
     const completion = await openai.chat.completions.create({
-      model: "gpt-4o-mini",
+      model: "llama-3.3-70b-versatile",
       
       messages: [
         { role: "system", 

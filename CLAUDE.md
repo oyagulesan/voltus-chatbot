@@ -11,7 +11,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Required environment
 
 `.env` (gitignored) must define:
-- `OPENAI_API_KEY` — used by `server.js` for chat completions.
+- `GROQ_API_KEY` — used by `server.js` for chat completions (Groq's OpenAI-compatible endpoint).
 - `FIRECRAWL_API_KEY` — used by `ingest.js` for the crawl.
 
 ## Architecture
@@ -25,7 +25,7 @@ Two-process design with a file as the contract between them:
 The `/chat` endpoint follows the Deep Chat widget contract:
 - Request: `{ messages: [{ text, role }, ...] }` — only the **last** message's `text` is forwarded to OpenAI. There is no multi-turn history sent to the model.
 - Response: `{ text: "..." }` — Deep Chat requires this exact shape.
-- Model: `gpt-4o-mini`. System prompt instructs Turkish-by-default replies and a "say I don't know + offer human handoff" fallback when context is missing.
+- Model: `llama-3.3-70b-versatile` via Groq's OpenAI-compatible endpoint (`https://api.groq.com/openai/v1`). The `openai` SDK is reused — only `baseURL` and the API key env var differ from a real OpenAI setup. System prompt instructs Turkish-by-default replies and a "say I don't know + offer human handoff" fallback when context is missing.
 
 `index.html` is served statically from the project root (via `express.static(__dirname)`) and embeds the Deep Chat web component pointed at `/chat`. The frontend and backend are intentionally same-origin in production.
 
