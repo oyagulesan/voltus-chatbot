@@ -26,7 +26,7 @@ app.post('/chat', async (req, res) => {
       
       messages: [
         { role: "system", 
-          content: `You are a helpful business assistant walking in Turkish by default unless the user asks you to speak in another language or uses another language. Use the following business context to answer questions. If the answer isn't in the context, say you don't know and offer to connect them to a human.\n\nCONTEXT:\n${businessKnowledge}`        },
+          content: `You are a helpful business assistant talking in Turkish by default unless the user asks you to speak in another language or uses another language. Use the following business context to answer questions. If the answer isn't in the context, say you don't know and offer to connect them to a human.\n\nCONTEXT:\n${businessKnowledge}`        },
         { role: "user", content: lastMessage }
       ],
     });

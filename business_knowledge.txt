@@ -1,17 +1,17 @@
---- SOURCE: https://tiktaktik.com.tr/voltus/ ---
-# Güvenli, Verimli ve **Akıllı Teknolojiler**
+--- SOURCE: https://voltus.tr/ ---
+# Voltus Mühendislik \| Gelecekten Yana   **Akıllı Çözümler**
 
-Bilimsel bilgi ve mühendislik disiplinini, yapay zekâ ve otomasyon destekli modern sistemlerle birleştirerek ulusal ve uluslararası standartlara uygun çözümler sunar.
+Verimliliği ve güvenliği standart kabul eden yaklaşımımızla, enerjiyi hem bugünü hem de yarını koruyan akıllı çözümlere dönüştürüyoruz.
 
-[Keşfedin](https://tiktaktik.com.tr/voltus/#about) [İletişime Geçin](https://tiktaktik.com.tr/voltus/#contact)
+[Keşfedin](https://voltus.tr/#about) [İletişime Geçin](https://voltus.tr/#contact)
 
 Uzman, Güçlü, Güvenli
 
 ## Kurumsal **Voltus**
 
-![Voltus Mühendislik](https://tiktaktik.com.tr/voltus/image/kurumsal.png)
+![Voltus Mühendislik - Kurumsal Profil ve Elektrik Taahhüt](https://voltus.tr/img/kurumsal.jpg)
 
-### Güvenlik ve Verimliliğin Mühendislik Hali
+### Güvenlik, Verimlilik ve Yenilenebilirliğin Mühendislik Hali
 
 VOLTUS, yaşamın ve doğanın temel kaynağı olan elektrik enerjisini çevre ve insan odaklı bir hizmet anlayışıyla sunar. Çağın gerektirdiği dijital ve sürdürülebilir sistemleri sahaya entegre ederek, kurumların performansını artırıyoruz.
 
@@ -21,29 +21,90 @@ Spesifik Uzmanlıklar
 
 ## Faaliyet **Alanlarımız**
 
-#### Elektrik Proje & Tesisat
+#### Elektrik Proje, Taahhüt ve    Pano Sistemleri
 
 Uluslararası standartlara uygun, güvenli ve verimli elektrik altyapı çözümleri.
+
+##### Projeden Uygulamaya Kesintisiz Disiplin
+
+![Pano Sistemleri](https://voltus.tr/img/voltus_pano_4.jpg)
+
+Elektrik projelendirme ve taahhüt süreçlerini, sadece kabloların ve devrelerin birleşimi olarak değil; bir yapının yaşayan, nefes alan enerji omurgası olarak görüyoruz. Bilimsel mühendislik hesaplarına dayanan yaklaşımımızla, kağıt üzerindeki her detayı uluslararası IEC standartlarına harfiyen uyarak sahaya indiriyoruz. Orta gerilimden zayıf akıma kadar tüm enerji akışını, operasyonel sürekliliği ve güvenliği merkeze alarak, teknik kusursuzluk hedefiyle inşa ediyoruz.
+
+Enerji yönetiminin en kritik noktası olan pano sistemlerini, Voltus’un teknik hassasiyeti ve ileri teknoloji anlayışıyla tasarlıyoruz. Tip testli ve yüksek güvenlik kriterlerine sahip akıllı pano çözümlerimizle, enerjinin dağıtımını sadece kontrol etmekle kalmıyor; onu izlenebilir, yönetilebilir ve her türlü riskten arındırılmış bir yapıya kavuşturuyoruz. Her bir panoyu, tesisin ihtiyaçlarına özel bir kontrol merkezi olarak kurgulayarak, enerji verimliliğini sistemin başlangıç noktasına yerleştiriyoruz.
+
+Mühendislik anlayışımızı doğa dostu bir vizyonla konumlandırırken, kurduğumuz her altyapının on yıllar boyunca güvenle hizmet vermesini hedefliyoruz. "Gelecekten Yana Akıllı Çözümler" mottomuzun bir yansıması olarak; sürdürülebilirliği bir seçenek değil, mühendislik etiğimizin temel bir zorunluluğu olarak kabul ediyoruz. Enerjinin her watt’ını koruyan, doğayı yormayan ve yarının dünyasına bugünden uyum sağlayan akıllı sistemlerle, Voltus imzasını kalıcı bir güvene dönüştürüyoruz.
 
 #### Akıllı Bina Otomasyonu
 
 Yapay zekâ destekli sistemlerle konforlu, güvenli ve enerji verimli yaşam alanları.
 
+##### Yaşam Alanlarına Değer Katan Entegre Akıllı Sistemler
+
+![Akıllı Bina](https://voltus.tr/img/akilliev.jpg)
+
+Voltus olarak akıllı bina sistemlerini sadece birer teknolojik aksesuar olarak değil, yapının merkezi sinir sistemi olarak kurguluyoruz. Aydınlatmadan iklimlendirmeye, güvenlikten enerji takibine kadar tüm süreçleri tek bir akıllı merkezde birleştirerek yaşam alanlarına "akıl" katıyoruz. Amacımız, teknolojinin karmaşasını ortadan kaldırıp kullanıcıya sadece konfor ve tam kontrol bırakmaktır.
+
+Yapay zekâ ve nesnelerin interneti (IoT) teknolojilerini mühendislik disiplinimizle harmanlayarak, binaların kullanıcı alışkanlıklarını öğrenmesini sağlıyoruz. Bu proaktif yaklaşım sayesinde sistemler, ihtiyaç duyulmayan alanlarda enerjiyi otomatik olarak keserek %30'a varan verimlilik artışı sağlar. Güvenlik senaryolarıyla entegre çalışan bu yapılar, olası riskleri daha oluşmadan tespit ederek koruma kalkanı oluşturur.
+
+Sürdürülebilir yarınlar inşa etmek adına, kurduğumuz her otomasyon sistemini geleceğin teknolojik değişimlerine uyumlu ve esnek bir yapıda tasarlıyoruz. "Gelecekten Yana" vizyonumuzla, enerji israfını minimize eden ve karbon ayak izini azaltan bu akıllı sistemleri, modern yaşamın ayrılmaz bir parçası haline getiriyoruz. Voltus mühendisliği, binaları sadece birer beton yığını olmaktan çıkarıp çevreyle dost, yaşayan organizmalara dönüştürür.
+
 #### Endüstriyel Otomasyon
 
 Üretim süreçlerinde maksimum verimlilik ve kesintisiz enerji yönetimi.
 
-#### Dekoratif Aydınlatma
+##### Üretimde Süreklilik ve Operasyonel Mükemmellik
 
-Estetik, fonksiyonel ve enerji tasarruflu aydınlatma çözümleri.
+![Endüstriyel Otomasyon](https://voltus.tr/img/voltus_otomasyon_3.jpg)
+
+Endüstriyel tesislerde üretimin kesintisiz ve hatasız ilerlemesi, Voltus’un sunduğu gelişmiş otomasyon çözümlerinin temel hedefidir. Güç sistemleri analizi ve enerji optimizasyonu odaklı yaklaşımımızla; her üretim safhasını şeffaf, ölçülebilir ve yönetilebilir bir yapıya kavuşturuyoruz. Karmaşık prosesleri sadeleştirerek, tesislerin operasyonel hızını ve teknik kapasitesini artırıyoruz.
+
+Modern mühendislik aklını (US) fabrikanın kalbine yerleştirirken, enerjinin her birimini geleceği koruyacak şekilde yönetiyoruz. Uluslararası standartlara tam uyumlu bu akıllı altyapılar, tesislerin dijital dönüşüm yolculuğunda en güvenilir dayanağıdır. Voltus, endüstriyel otomasyonu sadece bir yazılım meselesi değil, üretim güvenliğini ve sürdürülebilirliği garanti altına alan stratejik bir hamle olarak görür.
+
+#### Ürün Satış ve Tedarik
+
+Uluslararası standartlarda ekipmanların uçtan uca satış ve tedarik yönetimi.
+
+##### Teknik Analize Dayalı Stratejik Malzeme Yönetimi
+
+![Ürün Tedarik](https://voltus.tr/img/urun_satis_1.jpg)
+
+Voltus olarak ürün tedariğini sadece bir malzeme satışı değil, projenin başarısını belirleyen bir mühendislik hizmeti olarak tanımlıyoruz. Şalt malzemelerinden otomasyon bileşenlerine kadar sunduğumuz her ürün grubu, IEC normlarına uygunluk ve teknik yeterlilik süzgecinden geçirilir. Projenin ihtiyacı olan en doğru ekipmanı seçmek, uzun vadeli güvenlik ve maliyet etkinliği için ilk adımımızdır.
+
+Lojistik planlamamızla, teknik onaydan geçen ekipmanların uygulama sahasına eksiksiz ve tam zamanında ulaşmasını sağlıyoruz. Tedarik zinciri yönetimindeki bu titizlik, projelerin aksamadan ilerlemesini ve taahhüt edilen sürede tamamlanmasını sağlar. "Akıllı Çözümler" anlayışımızı ürün kalitesine yansıtarak, Voltus güvencesini malzemenin olduğu her noktaya taşıyoruz.
 
 #### Güneş Enerjisi (GES)
 
 Sürdürülebilir ve çevre dostu yenilenebilir enerji uygulamaları.
 
+##### Doğanın Gücünü Yarının Teknolojisiyle Buluşturuyoruz
+
+![GES](https://voltus.tr/img/ges.jpg)
+
+Sürdürülebilir bir gelecek için çevre odaklı mühendislik yaklaşımımızla, güneşin sınırsız enerjisini temiz ve kârlı bir yatırıma dönüştürüyoruz. Çatı ve arazi tipi güneş enerjisi santrallerinin (GES) projelendirme aşamasından kurulumuna kadar tüm süreçleri anahtar teslim yürütüyoruz. Doğayı yormadan enerji üretmenin, gelecek nesillere bırakılacak en değerli miras olduğuna inanıyoruz.
+
+"Gelecekten Yana" duruşumuzun en somut örneği olan yenilenebilir enerji çözümlerimizle, karbon ayak izini azaltan akıllı altyapılar kuruyoruz. Doğal kaynakları koruyan bu sistemler, hem ekonomik hem de ekolojik dengenin korunmasına doğrudan hizmet eder. Voltus mühendisliğiyle güneşten alınan her ışık, yarının dünyasına duyduğumuz saygının ve bağlılığın bir kanıtıdır.
+
 #### Eğitim & Danışmanlık
 
 Elektrik ve enerji alanında teknik bilgi, eğitim ve belgelendirme çözümleri.
+
+##### Mesleki Yeterlilik ve Belgelendirme
+
+![Eğitim ve Danışmanlık](https://voltus.tr/img/egitim_2.jpg)
+
+Mesleki tecrübenizi sadece anlatmakla kalmayın, onu resmiyetle mühürleyerek tescilleyin. Çalışma Bakanlığı onaylı belge ile rakiplerinizin önüne geçin.
+
+Süreci tamamen şeffaf ve profesyonel bir disiplinle yönetiyoruz.
+
+- **Elektrik & Elektronik** Elektrik Tesisatçısı, İşletme Elektrik Bakımcısı, Elektrik Pano Montajcısı, Elektronik ve Elektrikli Ürünler Servisçisi.
+
+- **Teknoloji & Onarım** Cep Telefonu Tamir Bakım ve Onarımcısı, Bilişim Teknolojileri.
+
+- **Endüstriyel Üretim** Makine, Metal, Enerji, Tekstil, Hazır Giyim ve Deri Sektörü.
+
+- **Yapı, Hizmet & Diğer** İnşaat, Ticaret, İş ve Yönetim, Turizm, Sağlık, Gıda, Yiyecek İçecek Hizmetleri.
+
 
 Entegre Yaklaşım
 
@@ -55,9 +116,9 @@ Uluslararası standartlara uyum, yüksek güvenlik kriterleri ve akıllı sistem
 
 Mühendislik hesaplarına dayalı, ulusal mevzuat ve IEC standartlarına tam uyumlu altyapı kurulumları.
 
-- Elektrik Proje ve Tesisat Uygulamaları
+- Elektrik Proje ve Taahhüt
 - Güneş Enerjisi Sistemleri (GES)
-- Dekoratif ve Mimari Aydınlatma
+- Elektrik Pano Sistemleri
 - Topraklama ve Koruma Sistemleri
 
 ### Akıllı Otomasyon Çözümleri
@@ -106,79 +167,91 @@ Proje, uygulama ve danışmanlıkta kesintisiz süreç yönetimi.
 
 Gelecek nesiller için sürdürülebilir ve doğa dostu sistemler.
 
-VOLTUS'U SEÇTİLER
+Uygulama Alanlarımız
 
-## Örnek **Projeler**
+## Sektörel **Vizyonumuz**
 
-Detaylı bilgi için projelerin üzerine tıklayınız. (Sağa doğru kaydırabilirsiniz)
+Kapasitemizi ve vizyonumuzu yansıtan uygulama alanlarımızı inceleyebilirsiniz. (İmleci kaydırın)
 
-![Proje](https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=800)
+![Elektrik Tesisat Taahhüt Uygulamaları](https://voltus.tr/img/insaat.jpg)
 
-#### Akıllı Bina Otomasyonu
+#### Elektrik Proje, Taahhüt ve Pano Sistemleri
 
-İstanbul Ticaret Merkezi
+Proje & Uygulama
 
-![Proje](https://tiktaktik.com.tr/voltus/image/fabrika_ges_3.png)
+![Akıllı Bina Otomasyonu Vizyonumuz](https://voltus.tr/img/akilliev.jpg)
 
-#### Endüstriyel GES
+#### Akıllı Binalar
 
-Fabrika Çatı Uygulaması
+Konfor & Verimlilik
 
-![Proje](https://tiktaktik.com.tr/voltus/image/mimariaydinlatma1.png)
+![Endüstriyel Otomasyon Çözümleri](https://voltus.tr/img/voltus_otomasyon_3.jpg)
 
-#### Mimari Aydınlatma
+#### Endüstriyel Otomasyon
 
-Dış Cephe Tasarımı
+Üretim & Güvenlik
 
-![Proje](https://images.unsplash.com/photo-1565626424178-01986420543e?q=80&w=800)
+![Ürün Satış ve Tedarik](https://voltus.tr/img/urun_satis_1.jpg)
 
-#### Kuvvet Tesisatı
+#### Ürün Satış ve Tedarik
 
-Üretim Tesisi Altyapısı
+Tasarım & Tasarruf
 
-### 15+
+![Güneş Enerjisi Sistemleri GES](https://voltus.tr/img/ges.jpg)
 
-Tamamlanan Proje
+#### Güneş Enerjisi
 
-### 4
+GES Projeleri
 
-Uzman Mühendis
+![Eğitim ve Danışmanlık Hizmetleri](https://voltus.tr/img/egitim.jpg)
 
-### 12
+#### Eğitim ve Danışmanlık
 
-Kalite Sertifikası
+Eğitim & Gelişim
 
 ### %100
 
-Uluslararası Uyum
+Uluslararası (IEC) Uyum
 
-Uzman KADRO
+### 15+
+
+Yıllık Mühendislik Tecrübesi
+
+### 360°
+
+Anahtar Teslim Çözümler
+
+### 7/24
+
+Kesintisiz Teknik Destek
+
+Uzman Kadro
 
 ## Yönetim **Ekibi**
 
-![Ekip](https://tiktaktik.com.tr/voltus/image/hasan_dogan.jpg)
+![Hasan Doğan - Voltus Mühendislik Kurucu Ortak](https://voltus.tr/img/hasan_dogan.jpg)
 
 #### Hasan Doğan
 
-Kurucu & Baş Mühendis
+Kurucu Ortak / Elektrik Mühendisi
 
-![Ekip](https://tiktaktik.com.tr/voltus/image/gurkan_bilen.jpg)
+![Gürkan Bilen - Voltus Mühendislik Kurucu Ortak](https://voltus.tr/img/gurkan_bilen.jpg)
 
 #### Gürkan Bilen
 
-O işini bilendir
+Kurucu Ortak / Teknik Öğretmen
 
-![Ekip](https://tiktaktik.com.tr/voltus/image/halilvoltaj.jpeg)
+![Savaş Karabulut - Voltus Mühendislik Tekniker](https://voltus.tr/img/savas.jpg)
 
-#### Halil Voltaj
+#### Savaş Karabulut
 
-Bi kez elektrik çarpmıştı
+Tekniker
 
-![Ekip](https://tiktaktik.com.tr/voltus/image/paragoz_finansci.png)
+![Murat Soysal - Voltus Mühendislik Tekniker](https://voltus.tr/img/tekniker.jpg)
 
-#### Money Money
+#### Murat Soysal
 
-Paragöz Finansçı
+Tekniker
 
 Bize Ulaşın
 
@@ -192,13 +265,11 @@ ATAŞEHİR / İSTANBUL
 
 #### Telefon & WhatsApp
 
-+90 ... .. ..
++90 532 402 28 00
 
 #### E-Posta Adresleri
 
-info@voltus.com.tr
-
-bilgi@voltus.com.tr
+info@voltus.tr
 
 Mesajı Gönder
 
@@ -222,13 +293,12 @@ Yapay zekâ ve ileri otomasyon teknolojilerini merkeze alan yaklaşımıyla; ele
 
 ×
 
-### Proje Adı
+### Konu Başlığı
 
-Kategori
+Konuyu anlatan vurucu, bir paragraflık metin.
 
-#### Proje Künyesi
+![Vizyon 1](https://voltus.tr/)
 
-- **Lokasyon:**
-- **Kapsam:**
-- **Standart:**
-- **Durum:** Tamamlandı
+![Vizyon 2](https://voltus.tr/)
+
+![Vizyon 3](https://voltus.tr/)

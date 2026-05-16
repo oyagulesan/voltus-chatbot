@@ -10,7 +10,7 @@ async function syncKnowledge() {
   
   try {
     // FIX: Changed 'crawlUrl' to 'crawl'
-    const crawlResponse = await app.crawl('https://tiktaktik.com.tr/voltus/', {
+    const crawlResponse = await app.crawl('https://voltus.tr/', {
       limit: 20,
       scrapeOptions: { 
         formats: ['markdown'] 
